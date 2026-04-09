@@ -1,7 +1,7 @@
 <!-- 🔥 Banner -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/1500x500/0a0f1c/00f0ff?text=RF+Engineer+%7C+Signal+Processing+%7C+Wireless+Systems" />
+  <img src="banner.png" />
 </p>
 
 <h1 align="center">Annanya Mishra</h1>
