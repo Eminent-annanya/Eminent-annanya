@@ -136,7 +136,7 @@ rf-signal-simulation/
 ## 📫 Contact
 
 * LinkedIn: (https://www.linkedin.com/in/annanya-mishra-9368961b3/)
-* Email: (annanya1011@gmail.com)
+* Email: (annanyamishra1011@gmail.com)
 
 ---
 
