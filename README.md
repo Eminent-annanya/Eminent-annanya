@@ -1,103 +1,135 @@
-# 👋 Annanya Mishra
+<!-- 🔥 Banner -->
 
-<div align="center">
+<p align="center">
+  <img src="https://via.placeholder.com/1500x500/0a0f1c/00f0ff?text=RF+Engineer+%7C+Signal+Processing+%7C+Wireless+Systems" />
+</p>
 
-📡 **RF & Embedded Systems Engineer**
+<h1 align="center">Annanya Mishra</h1>
+
+<p align="center">
+📡 RF & Embedded Systems Engineer <br>
 🔬 Signal Processing | Wireless Systems | Sensor Technology
+</p>
 
-</div>
+<p align="center">
+<i>"Designing, analyzing, and understanding signals that power modern communication."</i>
+</p>
 
 ---
 
-## 🧠 Engineering Focus
+## 📡 Signal Flow
 
-```text
-Signal → Noise → Analysis → Insight → Application
 ```
-
-* 📡 RF Signal Simulation
-* 📊 Spectrum & FFT Analysis
-* 🌐 Wireless System Modeling
-* 🤖 Dataset Generation for ML
-* 🔌 Embedded + Sensor Integration
-
----
-
-## 🔬 Active Lab Work
-
-| Domain             | Work                                |
-| ------------------ | ----------------------------------- |
-| 📡 RF Systems      | AM, FM, BPSK, QPSK, OFDM Simulation |
-| 📊 Signal Analysis | FFT, Noise Modeling (AWGN, Fading)  |
-| 🧪 Embedded        | Raspberry Pi + Sensor Systems       |
-| 📈 Data            | Signal Dataset Generation           |
-
----
-
-## 🧰 Tech Stack
-
-```text
-Python | NumPy | SciPy | Matplotlib
-Raspberry Pi | Sensors | Embedded Systems
-Signal Processing | Communication Systems
+Signal → Noise → FFT → Feature Extraction → ML → Insight
 ```
 
 ---
 
-## 📂 Project Architecture
+## 🔬 Waveform Insight
 
-```text
-📁 rf-signal-simulation
- ├── src/
- ├── data/
- ├── plots/
- ├── results/
- └── README.md
-
-📁 radar-system-raspberrypi
-📁 sensor-data-logger
-📁 dsp-algorithms
+```
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+   RF Signal Processing
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 ```
 
 ---
 
-## 📡 Featured Work
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eminent-annanya&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Eminent-annanya&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eminent-annanya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Engineering Domains
+
+| Domain             | Focus                     |
+| ------------------ | ------------------------- |
+| 📡 RF Systems      | AM, FM, BPSK, QPSK, OFDM  |
+| 📊 Signal Analysis | FFT, Spectrum Analysis    |
+| 🌐 Wireless        | Communication Systems     |
+| 🔌 Embedded        | Raspberry Pi + Sensors    |
+| 🤖 Data            | Dataset Generation for ML |
+
+---
+
+## 🧪 Active Projects
 
 ### 🚀 RF Signal Simulation & Dataset Generator
 
 * Multi-modulation signal generation
-* Noise injection (AWGN, Fading)
+* Noise modeling (AWGN, Fading)
 * FFT spectrum analysis
-* ML-ready dataset creation
+* ML-ready dataset
 
 ---
 
 ### 📡 Radar System (Raspberry Pi)
 
-* Ultrasonic + Servo scanning
-* Real-time visualization
+* Servo-based scanning
 * Object detection mapping
+* Real-time visualization
 
 ---
 
 ### 🌡️ Sensor Monitoring System
 
-* DHT22 + LCD interface
-* Data logging + visualization
-* Real-time plotting
+* DHT22 + LCD integration
+* Data logging & plotting
+* Embedded system design
 
 ---
 
-## 🎯 Engineering Direction
+## 🧰 Tech Stack
 
-```text
-Building towards RF Research & High-Impact R&D Roles
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-0a0f1c?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/NumPy-0a0f1c?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/SciPy-0a0f1c?style=for-the-badge&logo=scipy"/>
+<img src="https://img.shields.io/badge/Matplotlib-0a0f1c?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/RaspberryPi-0a0f1c?style=for-the-badge&logo=raspberrypi"/>
+<img src="https://img.shields.io/badge/Embedded-0a0f1c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SignalProcessing-0a0f1c?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📂 Engineering Architecture
+
+```
+rf-signal-simulation/
+ ├── src/
+ ├── data/
+ ├── plots/
+ ├── results/
+ └── README.md
 ```
 
+---
+
+## 🎯 Engineering Mindset
+
+* Think in signals and systems
+* Analyze before implementing
+* Build research-oriented solutions
+
+---
+
+## 📈 Future Direction
+
+* RF Research
 * Wireless Communication Systems
-* RF Signal Intelligence
-* Embedded + AI Integration
-* Also have knowlege about MERN Stack
+* AI in Signal Processing
 
 ---
 
