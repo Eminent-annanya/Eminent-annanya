@@ -59,6 +59,55 @@ Signal → Noise → FFT → Feature Extraction → ML → Insight
 | 🤖 Data            | Dataset Generation for ML |
 
 ---
+## 🧭 Research & Development Roadmap
+
+<div align="center">
+
+```
+Simulation → Intelligence → Real Signals → Integrated System
+```
+
+</div>
+
+---
+
+### 🧩 Phase 1: RF Signal Simulation & Dataset Generation
+
+* Multi-modulation signal generation (AM, FM, BPSK, QPSK, OFDM)
+* Noise modeling (AWGN, Fading)
+* FFT & spectrum analysis
+* Structured dataset creation for ML
+
+---
+
+### 🤖 Phase 2: AI-Based Modulation Classification
+
+* Feature extraction from RF signals
+* Model training (classification of modulation types)
+* Performance evaluation under noise conditions
+
+---
+
+### 📡 Phase 3: Real RF Capture using SDR *(Core Focus)*
+
+* Real-world signal acquisition using SDR
+* Signal preprocessing & filtering
+* Bridging simulation with real-world RF data
+
+---
+
+### 🧠 Phase 4: Advanced Intelligence Layer *(Exploratory)*
+
+* Research-driven extensions into intelligent signal systems
+* Potential integration of advanced ML paradigms
+
+---
+
+<div align="center">
+
+⚡ *Towards building an intelligent system capable of understanding and analyzing RF environments in real time*
+
+</div>
 
 ## 🧪 Active Projects
 
